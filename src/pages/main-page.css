@@ -1,0 +1,23 @@
+.playlist-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 900px;
+    margin: 50px auto;
+}
+
+.warning {
+    margin: 0 auto;
+    color: red;
+}
+
+.warning span {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.player-container {
+    height: 420px;
+    width: 640px;
+    margin: 10px auto;
+}
