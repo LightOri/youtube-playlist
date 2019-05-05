@@ -1,5 +1,5 @@
-// my private Google API_KEY for authentifacation
-const API_KEY = 'AIzaSyCbJ8qY9epYLjlKNcNI-msWL8zRKer5Aqw';
+// insert here youe Google API_KEY for authentifacation
+const API_KEY = '';
 
 const config = {
     baseUrl: 'https://www.googleapis.com/youtube/v3/',
