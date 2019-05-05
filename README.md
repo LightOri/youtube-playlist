@@ -1,5 +1,7 @@
 !!!important!!!
+
 Insert your Google API_KEY into 'src/config/config.js' file for authentification
+
 !!!end!!!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
